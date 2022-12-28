@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801181597537",
+    "project_id": "camping-life",
+    "storage_bucket": "camping-life.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801181597537:android:30bcc7c07499959dfe8f20",
+        "android_client_info": {
+          "package_name": "com.example.camp_advisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801181597537-va084igak0i3je28cvfo9luee35pvung.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiltofzSvLyDtab5gWimxKWG9_maUovFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801181597537-va084igak0i3je28cvfo9luee35pvung.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
